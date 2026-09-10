@@ -208,5 +208,4 @@ library=Library()
 library.list_available()
 library.add_item()
 library.list_available()
-library.find_by_title("The Great Gatsby")
     
