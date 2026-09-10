@@ -1,0 +1,9 @@
+go_to_goal_node:
+  ros__parameters:
+    target_x: 10.0
+    target_y: 10.0
+    kp_linear: 1.5
+    kp_angular: 6.0
+    angle_tolerance: 0.05
+    distance_tolerance: 0.1
+    loop_rate: 20.0
